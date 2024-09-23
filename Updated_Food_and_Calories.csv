@@ -1,0 +1,438 @@
+Food,Serving,Calories,User type,Constraint variable
+Artichoke,1 artichoke (128 g),60 cal,VG/NV,V
+Arugula,1 leaf (2 g),1 cal,VG/NV,V
+Asparagus,1 spear (12 g),2 cal,VG/NV,V
+Aubergine,1 aubergine (458 g),115 cal,VG/NV,V
+Beetroot,1 beet (82 g),35 cal,VG/NV,V
+Bell Pepper,1 pepper (73 g),15 cal,VG/NV,V
+Black Olives,1 olive (2.7 g),2 cal,VG/NV,V
+Broccoli,1 bunch (608 g),207 cal,VG/NV,V
+Brussels Sprouts,1 sprout (19 g),8 cal,VG/NV,V
+Cabbage,1 head (908 g),227 cal,VG/NV,V
+Capsicum,1 pepper (45 g),12 cal,VG/NV,V
+Carrot,1 carrot (61 g),25 cal,VG/NV,V
+Cauliflower,1 floweret (13 g),3 cal,VG/NV,V
+Celery,1 stalk (40 g),6 cal,VG/NV,V
+Chard,1 leaf (48 g),9 cal,VG/NV,V
+Cherry Tomato,1 cherry tomato (20 g),20 cal,VG/NV,V
+Chicory,1 head (53 g),38 cal,VG/NV,V
+Chinese Cabbage,1 head (840 g),134 cal,VG/NV,V
+Chives,"1 tbsp, chopped (3 g)",1 cal,VG/NV,V
+Collard Greens,"1 cup, raw (36 g)",12 cal,VG/NV,V
+Corn,1 cup (154 g),562 cal,VG/NV,V
+Courgette,1 courgette (196 g),33 cal,VG/NV,V
+Creamed Spinach,1 cup (200 g),148 cal,VG/NV,M
+Cucumber,1 cucumber (410 g),66 cal,VG/NV,V
+Eggplant,1 eggplant (458 g),115 cal,VG/NV,V
+Endive,1 head (513 g),87 cal,VG/NV,V
+Fennel,1 bulb (234 g),73 cal,VG/NV,V
+Garlic,1 clove (3 g),4 cal,VG/NV,V
+Gherkin,1 gherkin (65 g),9 cal,VG/NV,V
+Gourd,1 gourd (771 g),108 cal,VG/NV,V
+Green Beans,1 cup (110 g),34 cal,VG/NV,V
+Green Olives,1 olive (2.7 g),2 cal,VG/NV,V
+Green Onion,1 green onion (15 g),5 cal,VG/NV,V
+Horseradish,1 tbsp (15 g),7 cal,VG/NV,V
+Kale,"1 cup, chopped (67 g)",33 cal,VG/NV,V
+Kohlrabi,1 kohlrabi (400 g),108 cal,VG/NV,V
+Kumara,1 kumara (130 g),112 cal,VG/NV,V
+Leek,1 leek (89 g),54 cal,VG/NV,V
+Lettuce,1 head (600 g),90 cal,VG/NV,V
+Mushrooms,1 mushroom (5.4 g),1 cal,VG/NV,V
+Mustard Greens,"1 cup, chopped (56 g)",15 cal,VG/NV,V
+Nori,1 sheet (2.6 g),1 cal,VG/NV,V
+Okra,1 pod (12 g),4 cal,VG/NV,V
+Olives,1 olive (2.7 g),2 cal,VG/NV,V
+Onion,1 onion (85 g),34 cal,VG/NV,V
+Parsnips,1 parsnip (170 g),128 cal,VG/NV,V
+Peas,1 cup (98 g),79 cal,VG/NV,V
+Pepper,1 pepper (75 g),20 cal,VG/NV,V
+Potato,1 potato (213 g),164 cal,VG/NV,V
+Pumpkin,1 pumpkin (196 g),51 cal,VG/NV,V
+Radishes,1 radish (4.5 g),1 cal,VG/NV,V
+Red Cabbage,1 leaf (22 g),7 cal,VG/NV,V
+Rutabaga,1 rutabaga (386 g),147 cal,VG/NV,V
+Shallots,1 shallot (25 g),18 cal,VG/NV,V
+Spinach,1 bunch (340 g),78 cal,VG/NV,V
+Squash,1 squash (196 g),88 cal,VG/NV,V
+Sweet Potato,1 potato (130 g),112 cal,VG/NV,V
+Tomato,1 tomato (111 g),20 cal,VG/NV,V
+Turnip Greens,1 turnip green (170 g),34 cal,VG/NV,V
+Turnips,1 turnip (122 g),34 cal,VG/NV,V
+Wasabi,1 root (169 g),184 cal,VG/NV,V
+Winter Squash,1 squash (431 g),147 cal,VG/NV,V
+Zucchini,1 zucchini (196 g),33 cal,VG/NV,V
+Acai,1 oz. (28.35 g),20 cal,VG/NV,F
+Apple,1 apple (182 g),95 cal,VG/NV,F
+Applesauce,1 cup (246 g),167 cal,VG/NV,F
+Apricot,1 apricot (35 g),17 cal,VG/NV,F
+Avocado,1 avocado (200 g),320 cal,VG/NV,F
+Banana,1 banana (125 g),111 cal,VG/NV,F
+Blackberries,1 cup (144 g),62 cal,VG/NV,F
+Blood Oranges,1 serving (140 g),70 cal,VG/NV,F
+Blueberries,1 cup (148 g),84 cal,VG/NV,F
+Cantaloupe,1 wedge (69 g),23 cal,VG/NV,F
+Cherries,1 cherry (8 g),4 cal,VG/NV,F
+Clementine,1 clementine (74 g),35 cal,VG/NV,F
+Cranberries,1 cup (100 g),46 cal,VG/NV,F
+Currants,1 cup (112 g),63 cal,VG/NV,F
+Custard Apple,1 custard apple (135 g),136 cal,VG/NV,F
+Dates,1 date (7.1 g),20 cal,VG/NV,F
+Figs,1 fig (50 g),37 cal,VG/NV,F
+Fruit salad,1 cup (249 g),125 cal,VG/NV,F
+Grapes,1 cup (151 g),104 cal,VG/NV,F
+Greengage,1 fruit (5 g),2 cal,VG/NV,F
+Guava,1 guava (55 g),37 cal,VG/NV,F
+Jackfruit,1 cup (151 g),143 cal,VG/NV,F
+Jujube,1 oz. (28.35 g),22 cal,VG/NV,F
+Kiwi,1 liwi (183 g),112 cal,VG/NV,F
+Lemon,1 lemon (58 g),17 cal,VG/NV,F
+Lime,1 lime (67 g),20 cal,VG/NV,F
+Lychees,1 lychee (10 g),7 cal,VG/NV,F
+Mandarin Oranges,1 mandarin orange (88 g),47 cal,VG/NV,F
+Mango,1 mango (336 g),202 cal,VG/NV,F
+Minneola,1 minneola (109 g),70 cal,VG/NV,F
+Mulberries,1 cup (140 g),60 cal,VG/NV,F
+Nectarine,1 nectarine (150 g),66 cal,VG/NV,F
+Olives,1 olive (2.7 g),2 cal,VG/NV,V
+Orange,1 orange (131 g),62 cal,VG/NV,F
+Papaya,1 fruit (500 g),215 cal,VG/NV,F
+Passion Fruit,1 passoin fruit (18 g),17 cal,VG/NV,F
+Peach,1 peach (150 g),59 cal,VG/NV,F
+Pear,1 pear (178 g),101 cal,VG/NV,F
+Persimmon,1 fruit (25 g),32 cal,VG/NV,F
+Physalis,1 berry (5 g),2 cal,VG/NV,F
+Pineapple,1 pineapple (905 g),453 cal,VG/NV,F
+Plantains,1 plantain (179 g),218 cal,VG/NV,F
+Plum,1 plum (66 g),30 cal,VG/NV,F
+Pomegranate,1 pomegranate (282 g),234 cal,VG/NV,F
+Quince,1 quince (92 g),52 cal,VG/NV,F
+Raisins,1 cup (145 g),434 cal,VG/NV,F
+Rambutan,1 rambutan (9 g),7 cal,VG/NV,F
+Raspberries,1 cup (123 g),64 cal,VG/NV,F
+Rhubarb,1 stalk (51 g),11 cal,VG/NV,F
+Starfruit,1 star fruit (91 g),28 cal,VG/NV,F
+Strawberries,1 cup (152 g),49 cal,VG/NV,F
+Tamarind,1 tamarind (2 g),5 cal,VG/NV,F
+Tangerine,1 tangerine (88 g),47 cal,VG/NV,F
+Watermelon,1 wedge (286 g),86 cal,VG/NV,F
+Baby Back Ribs,1 serving (139 g),360 cal,NV,P
+Bacon and Eggs,1 serving (214 g),539 cal,NV,P
+Baked Beans,1 cup (260 g),244 cal,VG/NV,N
+BBQ Ribs,1 rib (141 g),360 cal,NV,B
+Beef Stew,1 cup (196 g),186 cal,NV,B
+Biryani,1 cup (275 g),484 cal,NV,R
+Black Pudding,1 pudding (40 g),101 cal,NV,P
+Black Rice,1/2 cup (100 g),323 cal,VG/NV,R
+BLT,1 item (240 g),593 cal,NV,P
+Brown Rice,1 cup (185 g),670 cal,VG/NV,R
+Burrito,1 burrito (200 g),326 cal,NV,C
+Butter Chicken,1 tray (350 g),490 cal,NV,Z
+California Roll,1 roll (35 g),33 cal,NV,S
+Chicken Caesar Salad,1 salad (309 g),392 cal,NV,C
+Chicken Fried Steak,1 steak (280 g),423 cal,NV,C
+Chicken Marsala,1 serving (2301 g),2209 cal,NV,C
+Chicken Parmesan,1 piece (227 g),250 cal,NV,C
+Chicken Pot Pie,1 pie (302 g),673 cal,NV,C
+Chicken Tikka Masala,1 serving (241 g),195 cal,NV,C
+Chili con Carne,1 cup (253 g),266 cal,NV,B
+Chimichanga,1 item (180 g),418 cal,NV,P
+Cobb Salad,1 serving (536 g),632 cal,NV,C
+Collard Greens,1 cup (45 g),13 cal,VG/NV,V
+Corn Dog,1 item (175 g),438 cal,NV,P
+Corned Beef Hash,1 can (213 g),349 cal,NV,B
+Cottage Pie,1 pie (376 g),523 cal,NV,B
+Dal,1/2 cup (92 g),304 cal,VG/NV,Z
+Deviled Eggs,1/2 egg (31 g),62 cal,VG/NV,G
+Dim Sum,1 piece (19 g),37 cal,NV,P
+Dosa,1 serving (435 g),287 cal,VG/NV,Z
+Enchiladas,1 enchilada (192 g),323 cal,NV,B
+Fajita,1 serving (248 g),290 cal,NV,B
+Fish and Chips,1 serving (300 g),585 cal,NV,S
+Fried Rice,1 serving (356 g),662 cal,VG/NV,R
+Fried Shrimp,1 shrimp (27 g),75 cal,NV,S
+Grilled Cheese Sandwich,1 sandwich (136 g),392 cal,VG/NV,M
+Ham and Cheese Sandwich,1 sandwich (146 g),352 cal,NV,P
+Hummus,1 cup (246 g),435 cal,VG/NV,N
+Jambalaya,1 cup (250 g),250 cal,NV,P
+Kebab,1 kebab (360 g),774 cal,NV,L
+Lasagne,1 serving (215 g),284 cal,NV,I
+Mac and Cheese,1 serving (189 g),699 cal,VG/NV,M
+Macaroni and Cheese,1 serving (189 g),699 cal,VG/NV,I
+Mashed Potatoes,1 cup (210 g),174 cal,VG/NV,V
+Meat Pie,1 pie (120 g),290 cal,NV,B
+Meatloaf,1 loaf (284 g),721 cal,NV,B
+Naan,1 bread (84 g),260 cal,VG/NV,Z
+Orange Chicken,1 serving (162 g),420 cal,NV,C
+Pad Thai,1 cup (250 g),375 cal,VG/NV,R
+Paella,1/2 package (128 g),200 cal,VG/NV,R
+Paratha,1 paratha (80 g),260 cal,VG/NV,Z
+Pea Soup,1 cup (253 g),190 cal,VG/NV,V
+Peanut Butter Sandwich,1 sandwich (49 g),200 cal,VG/NV,N
+Philly Cheese Steak,1 sandwich (120 g),300 cal,NV,B
+Pizza,1 slice (102 g),272 cal,VG/NV,I
+Pork Chop,1 chop (131 g),295 cal,NV,P
+Potato Salad,1/3 cup (95 g),136 cal,VG/NV,V
+Pulled Pork Sandwich,1 sandwich (261 g),551 cal,NV,P
+Ramen,"1 package, dry (85 g)",380 cal,VG/NV,R
+Ravioli,5 ravioli (66 g),134 cal,VG/NV,I
+Reuben Sandwich,1 sandwich (308 g),641 cal,NV,B
+Roast Beef,1 slice (21 g),23 cal,NV,B
+Roast Dinner,1 slice (121 g),240 cal,NV,B
+Samosa,1 samosa (50 g),107 cal,VG/NV,Z
+Sausage Roll,1 roll (103 g),361 cal,NV,P
+Sausage Rolls,1 roll (34 g),101 cal,NV,P
+Shepherds Pie,1 pie (227 g),159 cal,NV,L
+Shrimp Cocktail,1 oz. (28 g),130 cal,NV,S
+Sloppy Joe,1/2 cup (142 g),101 cal,NV,P
+Sloppy Joes,1 bun (258 g),397 cal,NV,P
+Spaghetti Bolognese,1 serving (283 g),374 cal,NV,B
+Spring Roll,1 roll (140 g),350 cal,VG/NV,V
+Taco,1 taco (98 g),213 cal,NV,B
+Tandoori Chicken,1 serving (175 g),198 cal,NV,C
+Brown Rice,1 cup (195 g),757 cal,VG/NV,R
+Couscous,1 cup (173 g),650 cal,VG/NV,R
+Cracker,1 cracker (7 g),35 cal,VG/NV,W
+Polenta,1 cup (150 g),549 cal,VG/NV,R
+Prawn Crackers,1 cracker (3 g),16 cal,NV,W
+Pretzel Sticks,20 sticks (12 g),46 cal,VG/NV,W
+Quinoa,1 cup (170 g),626 cal,VG/NV,R
+Savoury Biscuits,40 grams (40 g),139 cal,VG/NV,W
+Shortbread,1 cookie (19 g),95 cal,VG/NV,W
+Tortilla Chips,20 chips (32 g),160 cal,VG/NV,W
+Alphabet Soup,1 cup (248 g),62 cal,VG/NV,V
+Bean Stew,1 cup (252 g),335 cal,VG/NV,V
+Beef Noodle Soup,1 cup (244 g),83 cal,NV,B
+Beef Soup,1 cup (213 g),70 cal,NV,B
+Broccoli Soup,1 cup (237 g),206 cal,VG/NV,V
+Cabbage Soup,1 cup (245 g),69 cal,VG/NV,V
+Carrot Soup,1 serving (381 g),95 cal,VG/NV,V
+Chicken Broth,1 cup (244 g),39 cal,NV,C
+Chicken Gumbo Soup,1 cup (244 g),56 cal,NV,C
+Chicken Noodle Soup,1 cup (248 g),62 cal,NV,C
+Chicken Stock,1 cup (244 g),39 cal,NV,C
+Chicken Vegetable Soup,1 cup (248 g),77 cal,NV,C
+Chicken with Rice Soup,1 cup (243 g),58 cal,NV,C
+Cream of Asparagus Soup,1 cup (244 g),85 cal,VG/NV,M
+Cream of Broccoli Soup,1 serving (310 g),140 cal,VG/NV,M
+Cream of Celery Soup,1 cup (248 g),92 cal,VG/NV,M
+Cream of Chicken Soup,1 cup (244 g),117 cal,NV,M
+Cream of Mushroom Soup,1 cup (248 g),97 cal,VG/NV,H
+Cream of Onion Soup,1 cup (244 g),107 cal,VG/NV,O
+Cream of Potato Soup,1 cup (244 g),73 cal,VG/NV,M
+Creamy Chicken Noodle Soup,1 cup (245 g),56 cal,NV,C
+French Onion Soup,1 cup (243 g),56 cal,VG/NV,O
+Golden Mushroom Soup,1 cup (248 g),161 cal,VG/NV,H
+Goulash,1 serving (187 g),1887 cal,NV,B
+Lentil Soup,1 cup (248 g),139 cal,VG/NV,V
+Lobster Bisque Soup,1 cup (248 g),248 cal,NV,S
+Meatball Soup,1 cup (245 g),120 cal,NV,B
+Minestrone,1 cup (241 g),82 cal,VG/NV,V
+Mushroom Soup,1 cup (244 g),85 cal,VG/NV,H
+Noodle Soup,1 cup (244 g),83 cal,VG/NV,V
+Onion Soup,1 cup (243 g),56 cal,VG/NV,O
+Oxtail Soup,1 cup (244 g),68 cal,NV,B
+Pea Soup,1 cup (253 g),190 cal,VG/NV,V
+Potato Soup,1 serving (240 g),192 cal,VG/NV,V
+Pumpkin Soup,1 cup (245 g),71 cal,VG/NV,V
+Thai Soup,1 cup (245 g),147 cal,VG/NV,R
+Tomato Rice Soup,1 cup (247 g),116 cal,VG/NV,R
+Tomato Soup,1 cup (248 g),74 cal,VG/NV,V
+Vegetable Beef Soup,1 cup (244 g),76 cal,NV,B
+Vegetable Soup,1 cup (241 g),67 cal,VG/NV,V
+Baskin-Robbins,1 scoop (71 g),170 cal,VG/NV,M
+Ben and Jerry's,1 scoop (92 g),210 cal,VG/NV,M
+Butter Pecan Ice Cream,1 scoop (113 g),280 cal,VG/NV,M
+Chocolate Chip Ice Cream,1 scoop (72 g),155 cal,VG/NV,M
+Chocolate Ice Cream,1 scoop (72 g),156 cal,VG/NV,M
+Coffee Ice Cream,1 scoop (72 g),170 cal,VG/NV,M
+Cold Stone Creamery,1 scoop (142 g),329 cal,VG/NV,M
+Cookie Dough Ice Cream,1/2 cup (65 g),130 cal,VG/NV,M
+Crunchie McFlurry,1 mcflurry (183 g),318 cal,VG/NV,M
+Dairy Milk McFlurry,1 mcflurry (183 g),340 cal,VG/NV,M
+Cornetto Drumsticks,1 cone (141 g),360 cal,VG/NV,M
+French Vanilla Ice Cream,1 scoop (72 g),145 cal,VG/NV,M
+Hot Fudge Sundae,1 sundae (179 g),333 cal,VG/NV,M
+Ice Cream Sandwich,1 bar (112 g),265 cal,VG/NV,M
+Ice Cream Sundae,1 sundae (178 g),253 cal,VG/NV,M
+Ice Milk,1 scoop (103 g),164 cal,VG/NV,M
+Magnum,1 magnum (86 g),258 cal,VG/NV,M
+Magnum Almond,1 magnum (86 g),271 cal,VG/NV,M
+Magnum Double Caramel,1 magnum (86 g),305 cal,VG/NV,M
+Magnum Double Chocolate,1 magnum (86 g),327 cal,VG/NV,M
+Magnum Gold,1 magnum (85 g),290 cal,VG/NV,M
+Magnum White,1 magnum (86 g),255 cal,VG/NV,M
+McFlurry,1 mcflurry (134 g),205 cal,VG/NV,M
+McFlurry Oreo,1 mcflurry (183 g),340 cal,VG/NV,M
+Mini Milk,1 mini milk (25 g),30 cal,VG/NV,M
+Mint Chocolate Chip Ice Cream,1 scoop (72 g),172 cal,VG/NV,M
+Rocky Road Ice Cream,1 scoop (113 g),290 cal,VG/NV,M
+Smarties McFlurry,1 mcflurry (202 g),400 cal,VG/NV,M
+Snickers Ice Cream,1 bar (50 g),180 cal,VG/NV,M
+Soft Serve,1 cup (86 g),191 cal,VG/NV,M
+Strawberry Ice Cream,1 scoop (72 g),170 cal,VG/NV,M
+Strawberry Sundae,1 sundae (178 g),281 cal,VG/NV,M
+Sundae,1 scoop (72 g),155 cal,VG/NV,M
+Vanilla Cone,1 cone (142 g),230 cal,VG/NV,M
+Vanilla Ice Cream,1 scoop (72 g),145 cal,VG/NV,M
+Cannelloni,2 oz. (56 g),82 cal,VG/NV,I
+Cheese Tortellini,1 cup (113 g),329 cal,VG/NV,I
+Farfalle,2 oz. (56 g),200 cal,VG/NV,I
+Fettuccine,2 oz. (56 g),198 cal,VG/NV,I
+Fusilli,2 oz. (56 g),197 cal,VG/NV,I
+Linguine,2 oz. (56 g),200 cal,VG/NV,I
+Low Carb Pasta,2 oz. (56 g),158 cal,VG/NV,I
+Macaroni,1 cup (114 g),422 cal,VG/NV,I
+Orzo,2 oz. (56 g),200 cal,VG/NV,I
+Penne,2 oz. (56 g),197 cal,VG/NV,I
+Penne Rigate,2 oz. (56 g),207 cal,VG/NV,I
+Pierogi,3 pierogi (100 g),200 cal,NV,P
+Ravioli,2 oz. (56 g),43 cal,VG/NV,I
+Rigatoni,2 oz. (56 g),198 cal,VG/NV,I
+Rotini,2 oz. (56 g),198 cal,VG/NV,I
+Shells,1 cup (85 g),300 cal,VG/NV,I
+Soy Noodles,2 oz. (56 g),121 cal,VG/NV,U
+Spaghetti,2 oz. (56 g),207 cal,VG/NV,I
+Spinach Tortellini,1 cup (102 g),320 cal,VG/NV,I
+Tagliatelle,2 oz. (56 g),207 cal,VG/NV,I
+Tortellini,1 cup (113 g),329 cal,VG/NV,I
+Ziti,2 oz. (56 g),197 cal,VG/NV,I
+BBQ Chicken Pizza,1 slice (132 g),309 cal,NV,I
+Beef Pizza,1 slice (235 g),714 cal,NV,I
+Bianca Pizza,1 slice (187 g),460 cal,VG/NV,I
+Buffalo Chicken Pizza,1 slice (238 g),600 cal,NV,I
+Calabrese Pizza,1 slice (108 g),254 cal,VG/NV,I
+Calzone,1 calzone (364 g),841 cal,VG/NV,I
+Capricciosa Pizza,1 slice (74 g),192 cal,NV,I
+Cheese Pizza,1 slice (63 g),168 cal,VG/NV,M
+Chicken Pizza,1 slice (132 g),309 cal,NV,I
+Deep Dish Pizza,1 slice (118 g),313 cal,VG/NV,I
+Dominos Philly Cheese Steak Pizza,1 slice (159 g),356 cal,NV,I
+Four Cheese Pizza,1 slice (113 g),250 cal,VG/NV,I
+Goat Cheese Pizza,1 slice (63 g),138 cal,VG/NV,I
+Grilled Pizza,1 slice (124 g),280 cal,VG/NV,I
+Hawaiian Pizza,1 slice (134 g),154 cal,NV,I
+Margherita Pizza,1 slice (63 g),173 cal,VG/NV,I
+Mozzarella Pizza,1 slice (62 g),154 cal,VG/NV,I
+Mushroom Pizza,1 slice (288 g),611 cal,VG/NV,I
+Napoli Pizza,1 slice (123 g),248 cal,NV,I
+New York Style Pizza,1 slice (103 g),174 cal,VG/NV,I
+Pepperoni Pizza,1 slice (71 g),181 cal,VG/NV,I
+Pizza Dough,2 oz. (57 g),130 cal,VG/NV,I
+Pizza Hut Stuffed Crust Pizza,1 slice (149 g),380 cal,VG/NV,I
+Pizza Hut Supreme Pizza,1 slice (123 g),305 cal,NV,I
+Pizza Rolls,1 roll (14 g),35 cal,NV,I
+Quattro Formaggi Pizza,1 slice (133 g),330 cal,VG/NV,I
+Red Pepper Pizza,1 slice (86 g),165 cal,VG/NV,I
+Salami Pizza,1 slice (71 g),181 cal,NV,I
+Sausage Pizza,1 slice (72 g),177 cal,NV,I
+Seafood Pizza,1 slice (76 g),186 cal,NV,I
+Shrimp Pizza,1 slice (91 g),190 cal,NV,S
+Sicilian Pizza,1 slice (133 g),321 cal,VG/NV,I
+Spinach Feta Pizza,1 slice (62 g),150 cal,VG/NV,I
+Spinach Pizza,1 slice (62 g),145 cal,VG/NV,I
+Stuffed Crust Pizza,1 slice (149 g),380 cal,VG/NV,I
+Thin Crust Pizza,1 slice (60 g),157 cal,VG/NV,I
+Tuna Pizza,1 slice (125 g),318 cal,NV,S
+Veggie Pizza,1 slice (114 g),263 cal,VG/NV,I
+White Pizza,1 slice (232 g),571 cal,VG/NV,I
+Acerola,1 acerola (4.8 g),1 cal,VG/NV,F
+Asian Pear,1 pear (178 g),75 cal,VG/NV,F
+Avocado,1 avocado (200 g),320 cal,VG/NV,F
+Banana,1 banana (125 g),111 cal,VG/NV,F
+Breadfruit,1/4 breadfruit (96 g),99 cal,VG/NV,F
+Cantaloupe Melon,1 wedge (69 g),23 cal,VG/NV,F
+Casaba Melon,1 wedge (125 g),35 cal,VG/NV,F
+Cherimoya,1 cherimoya (235 g),176 cal,VG/NV,F
+Dragon Fruit,1 dragonfruit (200 g),120 cal,VG/NV,F
+Durian,1 durian (602 g),885 cal,VG/NV,F
+Feijoa,1 feijoa (42 g),23 cal,VG/NV,F
+Galia Melon,1 melon (130 g),30 cal,VG/NV,F
+Grapefruit,1/2 grapefruit (123 g),52 cal,VG/NV,F
+Guava,1 guava (55 g),37 cal,VG/NV,F
+Honeydew,1 wedge (125 g),45 cal,VG/NV,F
+Jackfruit,1 cup (151 g),143 cal,VG/NV,F
+Kiwi,1 kiwi (183 g),112 cal,VG/NV,F
+Kumquat,1 kumquat (19 g),13 cal,VG/NV,F
+Lychee,1 lychee (10 g),7 cal,VG/NV,
+Mandarin Oranges,1 madarin orange (90 g),48 cal,VG/NV,F
+Mango,1 mango (336 g),202 cal,VG/NV,F
+Mangosteen,1 serving (80 g),58 cal,VG/NV,F
+Maracuya,1 maracuya (18 g),17 cal,VG/NV,F
+Maraschino Cherries,1 cherry (5 g),8 cal,VG/NV,F
+Muskmelon,1 wedge (69 g),23 cal,VG/NV,F
+Noni,1 oz. (28.4 g),15 cal,VG/NV,F
+Passion Fruit,1 passion fruit (18 g),17 cal,VG/NV,F
+Pineapple,1 pineapple (905 g),453 cal,VG/NV,F
+Pink Grapefruit,1/2 grapefruit (123 g),52 cal,VG/NV,F
+Plantain,1 plantain (179 g),218 cal,VG/NV,F
+Pomegranate,1 pomegranate (282 g),234 cal,VG/NV,F
+Pomelo,1 pomelo (609 g),231 cal,VG/NV,F
+Prickly Pear,"1 pad, peeled (19 g)",8 cal,VG/NV,F
+Rambutan,1 rambutan (9 g),7 cal,VG/NV,F
+Sapodilla,1 sapodilla (170 g),141 cal,VG/NV,F
+Soursop Fruit,1 soursop fruit (625 g),413 cal,VG/NV,F
+Star Fruit,1 starfruit (91 g),28 cal,VG/NV,F
+Tamarind,1 tamarind (2 g),5 cal,VG/NV,F
+Watermelon,1 wedge (286 g),86 cal,VG/NV,F
+Arby's Grand Turkey Club,1 sandwich (233 g),489 cal,NV,P
+Arby's Reuben,1 sandwich (308 g),641 cal,NV,P
+Arby's Roast Beef Classic,1 burger (154 g),360 cal,NV,B
+Arby's Roast Beef Max,1 burger (154 g),360 cal,NV,B
+Bratwurst,1 piece (85 g),283 cal,NV,P
+Burger King Angry Whopper,1 burger (290 g),740 cal,NV,P
+Burger King Double Whopper,1 burger (374 g),894 cal,NV,P
+Burger King Double Whopper with Cheese,1 sandwich (399 g),994 cal,NV,P
+Burger King Original Chicken Sandwich,1 sandwich (219 g),659 cal,NV,P
+Burger King Premium Alaskan Fish Sandwich,1 burger (228 g),591 cal,NV,P
+Burger King Triple Whopper,1 burger (547 g),1471 cal,NV,P
+Burger King Whopper,1 burger (291 g),672 cal,NV,B
+Burger King Whopper Jr.,1 burger (148 g),346 cal,NV,B
+Burger King Whopper with Cheese,1 burger (315 g),759 cal,NV,B
+Cheeseburger,1 burger (156 g),410 cal,NV,B
+Chicken Breast,1 piece (71 g),116 cal,NV,C
+Chicken Fajita,1 sandwich (222 g),326 cal,NV,C
+Chicken Nuggets,1 piece (20 g),59 cal,NV,C
+Chicken Pizziola,1 sandwich (320 g),451 cal,NV,C
+Chicken Sandwich,1 sandwich (170 g),410 cal,NV,C
+Chicken Teriyaki Sandwich,1 sandwich (266 g),367 cal,NV,C
+Chicken Wings,1 piece (29 g),94 cal,NV,C
+Chop Suey,1 serving (340 g),585 cal,NV,P
+Curly Fries,1 serving (128 g),398 cal,VG/NV,V
+Double Cheeseburger,1 burger (155 g),414 cal,NV,B
+Egg Roll,1 roll (80 g),200 cal,VG/NV,G
+Falafel,1 patty (17 g),57 cal,VG/NV,V
+Filet-o-Fish,1 sandwich (142 g),400 cal,NV,S
+Fish and Chips,1 serving (300 g),585 cal,NV,S
+Fish Sandwich,1 sandwich (158 g),431 cal,NV,S
+French Fries,1 serving (71 g),222 cal,VG/NV,V
+Grilled Chicken Salad,1 salad (305 g),268 cal,NV,C
+Ham Sandwich,1 sandwich (146 g),352 cal,NV,P
+Hamburger,1 sandwich (110 g),279 cal,NV,B
+Hot Dog,1 hot dog (116 g),312 cal,NV,P
+Italian BMT,1 sandwich (224 g),410 cal,NV,P
+Lasagna,1 piece (130 g),172 cal,NV,I
+McDonald's Big Mac,1 burger (219 g),561 cal,NV,B
+McDonald's Cheeseburger,1 sandwich (114 g),300 cal,NV,B
+McDonald's Chicken Nuggets,1 nugget (16 g),48 cal,NV,C
+McDonald's Double Cheeseburger,1 burger (155 g),437 cal,NV,B
+McDonald's Filet-o-Fish,1 sandwich (142 g),391 cal,NV,S
+McDonald's McChicken,1 burger (143 g),359 cal,NV,C
+McDonald's McDouble,1 burger (160 g),403 cal,NV,B
+McDonald's McMuffi Egg,1 burger (129 g),290 cal,VG/NV,G
+McDonald's McRib,1 sandwich (170 g),451 cal,NV,P
+McDonald's Mighty Wings,1 wing (31 g),95 cal,NV,C
+Meatball Sandwich,1 sandwich (299 g),481 cal,NV,B
+Nachos with Cheese,10 nachos (188 g),575 cal,VG/NV,W
+Onion Rings,1 ring (6.5 g),25 cal,VG/NV,O
+Smoked Salmon,1 oz. (28.35 g),44 cal,NV,S
+Subway Club Sandwich,1 sandwich (238 g),312 cal,NV,P
+Tuna,1 oz. (28.35 g),24 cal,NV,S
+Veggie Burger,1 burger (215 g),389 cal,VG/NV,V
+Veggie Delight,1 sandwich (166 g),229 cal,VG/NV,V
+Veggie Patty,1 sandwich (247 g),963 cal,VG/NV,V
+Wendy's Baconator,1 burger (276 g),839 cal,NV,B
+Wendy's Jr. Bacon Cheeseburger,1 burger (161 g),420 cal,NV,B
+Wendy's Jr. Cheeseburger,1 burger (129 g),290 cal,NV,B
+Wendy's Son of Baconator,1 burger (218 g),700 cal,NV,B
+Zinger Burger,1 sandwich (202 g),517 cal,NV,C
