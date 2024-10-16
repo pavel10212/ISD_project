@@ -105,7 +105,7 @@ def create_meal_plan_with_ga(daily_calorie_target, dietary_preference, selected_
   food_data = food_data[food_data['Constraint variable'].isin(selected_constraints)]
 
   # Find the best meal plan
-  best_meal_plan = find_best_meal_plan(target_calories=daily_calorie_target, meals_per_day=4)
+  best_meal_plan = find_best_meal_plan(target_calories=daily_calorie_target, meals_per_day=7)
 
   # Get meal plan details
   meal_plan_details, total_calories = get_meal_plan_details(best_meal_plan)
