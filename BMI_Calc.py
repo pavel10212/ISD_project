@@ -2,8 +2,7 @@ import pandas as pd
 import random
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
-import numpy as np
-
+from GA import create_meal_plan_with_ga
 
 def calculate_bmi(weight, height):  # Formula 1
     bmi = weight / (height ** 2)
@@ -194,10 +193,11 @@ def main_program():
             "Select the types of food you would like: M(Milk Products), F(Fruits), O(Onions), H(Mushrooms), U(Tofu/Soy Products), V(Vegetables), R(Carbs), Z(Indian Food), I(Italian Food), W(Snacks), N(Nuts), C(Chicken), B(Beef), P(Pork), S(Seafood), G(Egg based), L(Lamb): ").split()
         for choice in choices:
             selected_constraints.append(choice)
-
     if weight <= 0 or height <= 0:
         print("Weight and height must be positive numbers.")
         return
+
+    linear_or_ga = input("Would you like to use the linear or genetic algorithm? ").strip().lower()
 
     bmi = calculate_bmi(weight, height)
     w_over_val = w_over(bmi, height)
@@ -212,6 +212,14 @@ def main_program():
     ndn_min_val = ndn_min(w_over_minus_min_val)
     ndn_max_val = ndn_max(w_over_minus_max_val)
 
+    if linear_or_ga == "linear":
+        fn = create_meal_plan_with_clustering(dnc, dietary_preference, selected_constraints, dnc_sat)
+    elif linear_or_ga == "genetic":
+        fn = create_meal_plan_with_ga(dnc, dietary_preference, selected_constraints)
+    else:
+        print("Invalid choice. Please choose either 'linear' or 'genetic'.")
+        return
+
     print(f"Your BMI is: {bmi:.2f}")
     print(f"Your weight over: {w_over_val:.2f}")
     print(f"You are in the {category} category.")
@@ -222,7 +230,6 @@ def main_program():
     print(f"Your daily caloric needs to lose weight are: {dnc_sat:.2f}")
     print(f"Your NDN min is: {ndn_min_val:.2f}")
     print(f"Your NDN max is: {ndn_max_val:.2f}")
-    fn = create_meal_plan_with_clustering(dnc, dietary_preference, selected_constraints, dnc_sat)
-
+    print(f"Fitness value: {fn:.4f}")
 
 main_program()
