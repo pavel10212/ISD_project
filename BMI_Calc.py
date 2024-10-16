@@ -1,10 +1,9 @@
-import pandas as pd
 import random
+import pandas as pd
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
-from sklearn.utils.estimator_checks import check_classifiers_one_label_sample_weights
-
 from GA import create_meal_plan_with_ga
+
 
 def calculate_bmi(weight, height):  # Formula 1
     bmi = weight / (height ** 2)
