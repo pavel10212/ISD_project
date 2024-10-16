@@ -2,6 +2,8 @@ import pandas as pd
 import random
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
+from sklearn.utils.estimator_checks import check_classifiers_one_label_sample_weights
+
 from GA import create_meal_plan_with_ga
 
 def calculate_bmi(weight, height):  # Formula 1
@@ -197,7 +199,7 @@ def main_program():
         print("Weight and height must be positive numbers.")
         return
 
-    linear_or_ga = input("Would you like to use the linear or genetic algorithm? ").strip().lower()
+    clustering_or_ga = input("Would you like to use the clustering or genetic algorithm?(clustering || genetic) ").strip().lower()
 
     bmi = calculate_bmi(weight, height)
     w_over_val = w_over(bmi, height)
@@ -212,12 +214,12 @@ def main_program():
     ndn_min_val = ndn_min(w_over_minus_min_val)
     ndn_max_val = ndn_max(w_over_minus_max_val)
 
-    if linear_or_ga == "linear":
+    if clustering_or_ga == "clustering":
         fn = create_meal_plan_with_clustering(dnc, dietary_preference, selected_constraints, dnc_sat)
-    elif linear_or_ga == "genetic":
+    elif clustering_or_ga == "genetic":
         fn = create_meal_plan_with_ga(dnc, dietary_preference, selected_constraints)
     else:
-        print("Invalid choice. Please choose either 'linear' or 'genetic'.")
+        print("Invalid choice. Please choose either 'clustering' or 'genetic'.")
         return
 
     print(f"Your BMI is: {bmi:.2f}")
